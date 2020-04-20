@@ -30,7 +30,7 @@ public:
         int rear = A.size()-1;
         while(front < rear)
         {
-        	if(num1 != middle)
+        	if(num1 != middle )
         	{
         		if(num1+A[front] != middle)
             	{   
